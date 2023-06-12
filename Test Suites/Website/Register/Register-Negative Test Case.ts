@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Register-Negative Test Case</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>aa2ffc3a-9e9e-45dc-9155-f6e76e2ec72b</testSuiteGuid>
+   <testCaseLink>
+      <guid>67919ef1-1e20-4ffe-89bc-d3650400fbd1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Website/Register/TCR001-Registration success</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5b51ef01-85b0-4bbd-a379-006ac473cef7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Website-RegisterSuccess</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5b51ef01-85b0-4bbd-a379-006ac473cef7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>9ec21fe3-3fd1-4b3e-b44d-a76afba075f9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b51ef01-85b0-4bbd-a379-006ac473cef7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>birthdate</value>
+         <variableId>051fe481-19cb-4d71-902a-657afdeea281</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b51ef01-85b0-4bbd-a379-006ac473cef7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>f7b4a535-fb1d-455e-8e69-c82a8310f8e6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b51ef01-85b0-4bbd-a379-006ac473cef7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>b57f1f19-63ce-4ca5-a032-2e8e701d0366</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b51ef01-85b0-4bbd-a379-006ac473cef7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmationPassword</value>
+         <variableId>0bd4759d-e628-4c9c-9c91-74f583732b3c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 114.0.0.0,,,2023-06-08 20:06:08,2023-06-08 20:06:19,11.086s,PASSED
+,,,,,,,
+Test Cases/Website/Login/TC001 - Login Valid Data,Chrome 114.0.0.0,,,2023-06-08 20:06:08,2023-06-08 20:06:19,10.741s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-08 20:06:09,2023-06-08 20:06:12,2.718s,PASSED
+"navigateToUrl(""https://demo-app.online/"")",Chrome 114.0.0.0,,,2023-06-08 20:06:12,2023-06-08 20:06:16,4.180s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Be a Profressional Talent with Coding.ID/a_Masuk""))",Chrome 114.0.0.0,,,2023-06-08 20:06:16,2023-06-08 20:06:17,0.911s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email""), ""ragil.irvandi97@gmail.com"")",Chrome 114.0.0.0,,,2023-06-08 20:06:17,2023-06-08 20:06:18,1.012s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12""), ""QgfuYk5Tsdi8mqoM6vPKkQ=="")",Chrome 114.0.0.0,,,2023-06-08 20:06:18,2023-06-08 20:06:18,0.460s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login""))",Chrome 114.0.0.0,,,2023-06-08 20:06:18,2023-06-08 20:06:19,1.028s,PASSED

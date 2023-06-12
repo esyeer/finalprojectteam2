@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="11.086" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="11.086" skipped="0" timestamp="2023-06-08 20:06:08" hostname="dokci - LAPTOP-6HRA2D0J" id="Test Suites/Login/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\dokci\\git\\finalprojectkelompok3\\Reports\\20230608_200605\\Login\\New Test Suite\\20230608_200605"/>
+         <property name="logFiles" value="C:\\Users\\dokci\\git\\finalprojectkelompok3\\Reports\\20230608_200605\\Login\\New Test Suite\\20230608_200605\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="dokci - LAPTOP-6HRA2D0J"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="db2e52b41ce16794d4d597f0eed1d1ad"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Website/Login/TC001 - Login Valid Data" time="10.741" classname="Test Cases/Website/Login/TC001 - Login Valid Data" status="PASSED">
+         <system-out><![CDATA[2023-06-08 20:06:08 - [TEST_CASE][PASSED] - Test Cases/Website/Login/TC001 - Login Valid Data: Test Cases/Website/Login/TC001 - Login Valid Data
+
+2023-06-08 20:06:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-08 20:06:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-08 20:06:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-08 20:06:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-08 20:06:12 - [TEST_STEP][PASSED] - navigateToUrl("https://demo-app.online/"): Navigate to 'https://demo-app.online/' successfully
+
+2023-06-08 20:06:16 - [MESSAGE][PASSED] - Navigate to 'https://demo-app.online/' successfully
+
+2023-06-08 20:06:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Be a Profressional Talent with Coding.ID/a_Masuk")): Object: 'Object Repository/Login/Page_Be a Profressional Talent with Coding.ID/a_Masuk' is clicked on
+
+2023-06-08 20:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Be a Profressional Talent with Coding.ID/a_Masuk' is clicked on
+
+2023-06-08 20:06:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email"), "ragil.irvandi97@gmail.com"): Text 'ragil.irvandi97@gmail.com' is set on object 'Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email'
+
+2023-06-08 20:06:18 - [MESSAGE][PASSED] - Text 'ragil.irvandi97@gmail.com' is set on object 'Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email'
+
+2023-06-08 20:06:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12"), "QgfuYk5Tsdi8mqoM6vPKkQ=="): Text ****** has been set on object 'Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12'
+
+2023-06-08 20:06:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12'
+
+2023-06-08 20:06:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login")): Object: 'Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login' is clicked on
+
+2023-06-08 20:06:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-08 20:06:08 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/Website/Login/TC001 - Login Valid Data]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
