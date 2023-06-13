@@ -11,4 +11,50 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>85ca54e0-389c-495d-995f-912d50d4e473</testSuiteGuid>
+   <testCaseLink>
+      <guid>ba274205-138e-4357-8c66-d907a31d8a59</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Website/Register/TCR001-Registration success</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>84c97df0-dd2f-49ec-934f-400279fe5ee7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Website-RegisterSuccess</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>84c97df0-dd2f-49ec-934f-400279fe5ee7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>9ec21fe3-3fd1-4b3e-b44d-a76afba075f9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>84c97df0-dd2f-49ec-934f-400279fe5ee7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>birthdate</value>
+         <variableId>051fe481-19cb-4d71-902a-657afdeea281</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>84c97df0-dd2f-49ec-934f-400279fe5ee7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>f7b4a535-fb1d-455e-8e69-c82a8310f8e6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>84c97df0-dd2f-49ec-934f-400279fe5ee7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>b57f1f19-63ce-4ca5-a032-2e8e701d0366</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>84c97df0-dd2f-49ec-934f-400279fe5ee7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirmationPassword</value>
+         <variableId>0bd4759d-e628-4c9c-9c91-74f583732b3c</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
