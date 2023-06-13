@@ -20,24 +20,48 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demo-app.online/')
+
 WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/Register/Page_Be a Profressional Talent with Coding.ID/button_Buat Akun'))
+
 WebUI.delay(2)
-WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_name'), name)
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_name'), 'syarif hidayatullah')
+
 WebUI.delay(2)
-WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_birth_date'), birthdate)
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_birth_date'), 
+    '29/11/1998')
+
 WebUI.delay(2)
-WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_email'), email)
+
+//WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_email'), 'faceluck04256@gmail.com')
+//
+//WebUI.delay(2)
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_whatsapp'), 
+    '082189913645')
+
 WebUI.delay(2)
-WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_whatsapp'), whatsapp)
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_password'), 
+    '!QAZ2wsx')
+
 WebUI.delay(2)
-WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_password'), password)
+
+WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_password_confirmation'), 
+    '!QAZ2wsx')
+
 WebUI.delay(2)
-WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_password_confirmation'), confirmationPassword)
-WebUI.delay(2)
+
 WebUI.check(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/Checkbox-aggrement'))
+
 WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/button_Daftar'))
+
 WebUI.delay(2)
 
 WebUI.closeBrowser()
+
