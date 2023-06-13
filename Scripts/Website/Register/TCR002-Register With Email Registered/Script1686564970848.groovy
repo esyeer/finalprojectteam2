@@ -32,7 +32,7 @@ WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapa
 WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_birth_date'), 
-    '29/11/1998')
+    '29-Nov-1998')
 
 WebUI.delay(2)
 
@@ -55,11 +55,15 @@ WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapa
 
 WebUI.delay(2)
 
-WebUI.check(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/Checkbox-aggrement'))
+WebUI.check(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/Checkbox_agreement'))
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/button_Daftar'))
+
+WebUI.delay(2)
+
+WebUI.verifyElementText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/Validate_Email sudah  terdaftar'), 'Email sudah terdaftar.')
 
 WebUI.delay(2)
 

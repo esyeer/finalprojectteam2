@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fda254c5-d497-4f05-8461-a4977be64250</webElementGuid>
+      <webElementGuid>f4d4e83d-1fdc-4cc2-b6f6-dadcb78a7912</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>buttonBanner btn-sm</value>
-      <webElementGuid>89dfc306-dc4d-4cb5-97cc-09bdbcfc888c</webElementGuid>
+      <webElementGuid>73b3772c-e116-47fb-9d70-43b556acde25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <type>Main</type>
       <value>Buat
                                                         Akun</value>
-      <webElementGuid>2377b82e-a903-49bd-8a46-5478abe4b75f</webElementGuid>
+      <webElementGuid>a6d42b64-12b9-4228-8abb-05e6f9757ae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;wm-megamenu-li&quot;]/form[1]/button[@class=&quot;buttonBanner btn-sm&quot;]</value>
-      <webElementGuid>117b2042-e679-4c00-9c55-3c29854e4e04</webElementGuid>
+      <webElementGuid>ed137ac6-09f6-4943-9263-b14ca5447ba5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbar-collapse-1']/ul/li[8]/form/button</value>
-      <webElementGuid>db0958fd-b680-4146-8dae-a4c2736a4982</webElementGuid>
+      <webElementGuid>383772b8-6445-4b5c-9286-eb9ab921d577</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::button[1]</value>
-      <webElementGuid>231f9bb2-dd66-4ed6-8c1e-f890e8ed42f2</webElementGuid>
+      <webElementGuid>63272e9f-f9a1-403d-b8e4-94e58d095175</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak'])[1]/following::button[1]</value>
-      <webElementGuid>c41fe6a3-b735-4ac7-94d4-0f8352a473d5</webElementGuid>
+      <webElementGuid>f688a4cb-0c27-49b2-9efb-247cac08a564</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/preceding::button[1]</value>
-      <webElementGuid>b7c816ac-4de7-49e2-9377-9eb5627dcce9</webElementGuid>
+      <webElementGuid>5edb805b-1bba-4f39-8b21-b2e44ceaa7a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Course'])[2]/preceding::button[2]</value>
-      <webElementGuid>d37228dc-a9fe-41ca-a1fa-f9b5f0ff3199</webElementGuid>
+      <webElementGuid>5c7fd7da-de8a-4dcd-912a-c146c0b70aa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[8]/form/button</value>
-      <webElementGuid>79de1d9d-a63f-43a5-b4ee-ab5fd9245972</webElementGuid>
+      <webElementGuid>2397f08a-27cf-4be6-8da5-9f1677448b6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +105,6 @@
       <value>//button[(text() = 'Buat
                                                         Akun' or . = 'Buat
                                                         Akun')]</value>
-      <webElementGuid>08868e80-07a8-4587-a914-18af0079e46d</webElementGuid>
+      <webElementGuid>7fcc1916-5da1-4715-a4aa-ff369256c1cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

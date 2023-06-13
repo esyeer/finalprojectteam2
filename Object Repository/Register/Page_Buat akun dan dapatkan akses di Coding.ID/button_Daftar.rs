@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f6c962fd-8504-4fa3-9395-fb0e2a369c2c</webElementGuid>
+      <webElementGuid>a7d98971-7dc2-40f4-af02-83b92f6e3dff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>buttonRegisterTrack</value>
-      <webElementGuid>500e8a18-86ce-46bd-8628-7b8562f1c327</webElementGuid>
+      <webElementGuid>65278574-8c14-432e-9c1b-ccb91ece5b88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>028e2440-e5f2-4cf8-8808-83e2df4cf1d5</webElementGuid>
+      <webElementGuid>b14bf0f7-85de-45ce-b620-ce93125ab105</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-block btn-primary</value>
-      <webElementGuid>75bf8b66-c368-4188-b0db-563e116bbfcf</webElementGuid>
+      <webElementGuid>90deb10e-2e60-4e73-84d9-aabf7d545bfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <value>
                                             Daftar
                                         </value>
-      <webElementGuid>8ce2529b-6d6e-4058-9c9f-accc56c111a7</webElementGuid>
+      <webElementGuid>cc4fee69-bf56-4d79-9b8a-e7c16477817b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;buttonRegisterTrack&quot;)</value>
-      <webElementGuid>3fc1c00f-8d43-409e-a7e5-7e37a3041490</webElementGuid>
+      <webElementGuid>d83be76f-be7b-4a3a-b741-a244dfb1604a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='buttonRegisterTrack']</value>
-      <webElementGuid>98e181e5-9328-4a62-bb04-808012d7fcf2</webElementGuid>
+      <webElementGuid>d3251b3c-9f7b-4fc5-a069-a9cd73a0158d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='syarat dan ketentuan'])[1]/following::button[1]</value>
-      <webElementGuid>73a7499b-d828-432b-9bb3-e21c8703c971</webElementGuid>
+      <webElementGuid>8e2ef84d-5dac-4978-8dd8-c798cd0c1cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi kata sandi'])[1]/following::button[1]</value>
-      <webElementGuid>48de1efe-0bbc-4d62-bab3-111657b65320</webElementGuid>
+      <webElementGuid>34d08d1e-d49f-4231-9868-0f2340b55765</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
-      <webElementGuid>31559bd7-3b11-4b1c-b68e-13be7cf0f4b2</webElementGuid>
+      <webElementGuid>450ddb47-0824-4acb-ab51-9050a5204d35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/button</value>
-      <webElementGuid>76f55c72-0456-4c25-bbde-065c8b89ef69</webElementGuid>
+      <webElementGuid>829e40cc-1633-4b20-9558-71c96d49326a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
                                         ' or . = '
                                             Daftar
                                         ')]</value>
-      <webElementGuid>6a909695-ff6d-4b39-a57c-53436ada3b3f</webElementGuid>
+      <webElementGuid>8d7ecb89-fff7-4aaf-a43b-267262a1cc4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapa
 WebUI.delay(2)
 WebUI.setText(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/input_password_confirmation'), confirmationPassword)
 WebUI.delay(2)
-WebUI.check(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/Checkbox-aggrement'))
+WebUI.check(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/Checkbox_agreement'))
 WebUI.delay(2)
 WebUI.click(findTestObject('Object Repository/Register/Page_Buat akun dan dapatkan akses di Coding.ID/button_Daftar'))
 WebUI.delay(2)
